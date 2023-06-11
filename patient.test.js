@@ -1,4 +1,4 @@
-describe('Simulating doctor functionalities', () => {
+describe('Simulating patient functionalities', () => {
   beforeAll(async () => {
     await device.launchApp();
   });
